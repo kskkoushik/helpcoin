@@ -13,7 +13,7 @@ Imagine turning simple acts of kindness into actual income, with HelpCoins seaml
 ✅ **Earn Through Engagement:** Earn HelpCoins by offering services, requesting help, or interacting with platform content.  
 ✅ **Seamless Fiat Conversion:** HelpCoins can be converted into real-world currency through integrated payment gateways.  
 ✅ **Trustless Transactions:** Eliminates the need for middlemen, ensuring peer-to-peer transparency.  
-✅ **Community Driven:** Fosters a global community powered by collaboration and financial empowerment.  
+✅ **Community Driven:** Fosters a global community powered by collaboration and financial empowerment. 
 
 ---
 
